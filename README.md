@@ -1,6 +1,8 @@
 # Quest2.0.Snake
 Make a snake game in the context of youtube channel : "Les quêtes d'un programmeur"
-This game is bases on QuestEngine version 25/10/2021
+The source code of this snake will be available when all parts of the video snake will be released on the channel
+
 
 Changelog : 
-17/01/2022 : Add QuestEngine to repo 
+17/01/2022 : 
+- Add QuestEngine to repository		
